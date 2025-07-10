@@ -12,4 +12,4 @@
 
 资源更新频率高，内容风格多样，从剧情片到短片合集一应俱全。站点界面清爽，无广告干扰，提升浏览效率。立即体验，发现更多你感兴趣的精彩内容！
 
-<span style="display:none;">[Canonical link]( https://github.com/tgb20250710/tgb3)</span>
+<span style="display:none;">[Canonical link](https://github.com/tgb20250710/tgb3 )</span>
